@@ -1,1 +1,1 @@
-Desafio Prático da Rocket Seat.
+Desafio Prático da Rocketseat.
